@@ -1,2 +1,37 @@
-# FreeRobuxVirusPrank
-My newest website is a really dumb prank. I coded a website that had a button that downloads a really dumb harmless virus that does nothing other than making a popup warning sign with messages beginning with"There is a a really dangerous virus on your computer" and ending with "This was a prank. Trololololololololo." The website was a free Robux scam, but honestly this website is just a script kiddie. I'm posting the virus code as well so you can see how harmless it is. 
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/bigbrainz1974/FreeRobuxVirusPrank/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bigbrainz1974/FreeRobuxVirusPrank/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
